@@ -7,7 +7,7 @@ Machine learning algorithm such as Linear Regression will be tested and evaluate
 
 **Tools :** <br >
 Programming language: Python <br >
-Data preprocessing and analysis libraries: pandas, NumPy, Pytorch. <br >
+Data preprocessing and analysis libraries: Pandas, NumPy, Pytorch. <br >
 data visualization libraries: OpenCV. <br >
 Machine learning algorithm:  Linear Regression.  
 
